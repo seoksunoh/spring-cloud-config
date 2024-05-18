@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8641111
-  secret: testva
+  expiration_time: 86411110
+  secret: testva2
   
 gateway:
   ip: 192.168.0.8
